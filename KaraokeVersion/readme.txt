@@ -1,0 +1,1 @@
+Output Karaoke version will be here.
